@@ -47,7 +47,7 @@ Linear Algebra
 
 *   [Eigenvalues and Eigenvectors](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 *   [Basic algebra concepts](https://www.geogebra.org/t/algebra)
-*   matrix multiplication
+*   [matrix multiplication](http://matrixmultiplication.xyz/)
 *   [Invitation to another dimension](https://maxgoldste.in/invitation-to-another-dimension/)
 *   [Immersive linear algebra](http://immersivemath.com/ila/index.html)
 *   [Matrix decomposition](https://p.migdal.pl/matrix-decomposition-viz/)
@@ -58,6 +58,7 @@ Machine Learning Algorithms
 Regression
 ----------
 
+*   [Animated Linear Regression](https://mlu-explain.github.io/linear-regression/)
 *   [Linear Regression](https://www.geogebra.org/m/rJj6yr6C)
 *   [Ordinary Least Square Regression](http://setosa.io/ev/ordinary-least-squares-regression/)
 *   [Regression Analysis](https://seeing-theory.brown.edu/regression-analysis/index.html)
