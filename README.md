@@ -1,4 +1,4 @@
-# visualnotes
+# Interactive Visualization - A curated list
 
 
 Pictures are worth a thousand words and I feel strongly these interactive visualizations and animations are worth a thousand images. This will be more helpful
